@@ -1,0 +1,20 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+.benner{
+    background-image: url(/img/back.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+.padding{
+    background-image: url(/img/skils.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+    padding: 100px;
+}
